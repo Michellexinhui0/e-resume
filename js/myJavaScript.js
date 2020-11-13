@@ -18,7 +18,7 @@ function Submit(){
       x.innerHTML = "Thank you for taking out your precious time to take a look at my E-Resume. Appreciate it a lot!";
     } 
     else {
-      x.innerHTML = "Let's start looking through my E-Resume!";
+      x.innerHTML = "Let's start looking through my E-Resume by clicking the "About Me" Button below!;
     }
   }
 
