@@ -134,10 +134,10 @@ input[type=submit]:hover {
   color: white; /* White text color */
 }
 
-.sql {width: 60%; background-color: #6cd48b;} 
+.sql {width: 65%; background-color: #6cd48b;} 
 .htmlcssjs {width: 65%; background-color: #6cd48b;} 
-.c {width: 70%; background-color: #41c067;} 
-.java {width: 75%; background-color: #49a364;}
+.c {width: 60%; background-color: #41c067;} 
+.java {width: 70%; background-color: #49a364;}
 .adobe {width: 80%; background-color: #328b4d;} 
 .hci {width: 85%; background-color: #308349;} 
 .microsoftoffice {width: 90%; background-color:  #1d5c1f;} 
